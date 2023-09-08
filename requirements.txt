@@ -1,0 +1,8 @@
+numpy
+tensorflow
+cv2
+tkinter
+PIL
+keras
+pickle
+ultralytics
